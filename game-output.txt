@@ -1,0 +1,11 @@
+GUESS THE NUMBER!
+____________________________________________
+Guess a  number between 1 and 10.
+Rules: You have 3 attempts. I will tell you if your guess is too low or too high.
+Invalid input: Enter a whole number (no letters or decimals).
+Invalid input: Guess must be at least 1.
+Invalid input: Guess cannot exceed 10.
+
+Game over!
+The secret number was 5.
+Thanks for playing!
